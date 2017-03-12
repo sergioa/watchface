@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="9" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="10" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="14" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="15" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="21" pc="268435521" symbol="onShow"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="25" pc="268435526" symbol="onUpdate"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="27" pc="268435530" symbol="onUpdate"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="28" pc="268435537" symbol="onUpdate"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="29" pc="268435554" symbol="onUpdate"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="30" pc="268435564" symbol="onUpdate"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="31" pc="268435589" symbol="onUpdate"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="32" pc="268435600" symbol="onUpdate"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="35" pc="268435616" symbol="onUpdate"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="36" pc="268435648" symbol="onUpdate"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="37" pc="268435655" symbol="onUpdate"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="40" pc="268435676" symbol="onUpdate"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="43" pc="268435741" symbol="onUpdate"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="45" pc="268435765" symbol="onUpdate"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="48" pc="268435779" symbol="onUpdate"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="54" pc="268435800" symbol="onHide"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="58" pc="268435805" symbol="onExitSleep"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceView.mc" lineNum="62" pc="268435810" symbol="onEnterSleep"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceBackground.mc" lineNum="10" pc="268435815" symbol="initialize"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceBackground.mc" lineNum="11" pc="268435819" symbol="initialize"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceBackground.mc" lineNum="15" pc="268435840" symbol="initialize"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceBackground.mc" lineNum="18" pc="268435861" symbol="draw"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceBackground.mc" lineNum="20" pc="268435865" symbol="draw"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceBackground.mc" lineNum="21" pc="268435912" symbol="draw"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceBackground.mc" lineNum="22" pc="268435965" symbol="draw"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceApp.mc" lineNum="6" pc="268435978" symbol="initialize"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceApp.mc" lineNum="7" pc="268435982" symbol="initialize"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceApp.mc" lineNum="11" pc="268436001" symbol="onStart"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceApp.mc" lineNum="15" pc="268436006" symbol="onStop"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceApp.mc" lineNum="19" pc="268436011" symbol="getInitialView"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceApp.mc" lineNum="20" pc="268436015" symbol="getInitialView"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceApp.mc" lineNum="24" pc="268436053" symbol="onSettingsChanged"/>
+<entry filename="/Users/sergioa/Documents/workspace/playground/watchface/source/watchfaceApp.mc" lineNum="25" pc="268436057" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="27" pc="268436074" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="29" pc="268436078" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="30" pc="268436102" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="31" pc="268436265" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="32" pc="268436290" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="33" pc="268436342" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="36" pc="268436388" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="16" symbol="ColorBlue"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="23" symbol="ColorWhite"/>
+<entry id="11" symbol="logger"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry field="true" id="22" symbol="ColorBlack"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="17" symbol="ColorRed"/>
+<entry id="8388649" symbol="Test"/>
+<entry field="true" id="18" symbol="ForegroundColorTitle"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="24" symbol="AppName"/>
+<entry id="8389375" method="true" symbol="WatchFace"/>
+<entry id="8" object="true" symbol="watchfaceView"/>
+<entry id="9" object="true" symbol="Background"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="20" symbol="ColorDarkGray"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="15" symbol="ColorLightGray"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="19" symbol="BackgroundColorTitle"/>
+<entry id="10" object="true" symbol="watchfaceApp"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="21" symbol="MilitaryFormatTitle"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435799" name="view" stackId="6" startPc="268435530"/>
+<entry endPc="268435799" name="hours" stackId="4" startPc="268435530"/>
+<entry endPc="268435799" name="timeString" stackId="5" startPc="268435530"/>
+<entry endPc="268435799" name="clockTime" stackId="3" startPc="268435530"/>
+<entry endPc="268435799" name="timeFormat" stackId="2" startPc="268435530"/>
+<entry endPc="268435860" name="dictionary" stackId="1" startPc="268435819"/>
+<entry endPc="268436415" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268436078"/>
+<entry endPc="268436415" name="rez_cmp_local_custom_drawable_HX3WDMPRWIP8D5XEU1I5" stackId="2" startPc="268436078"/>
+<entry endPc="268436415" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="4" startPc="268436078"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="watchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="watchfaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="watchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="watchfaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="watchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="watchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="watchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="watchfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="watchfaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="watchfaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="watchfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="watchfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
